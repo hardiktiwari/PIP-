@@ -20,11 +20,11 @@ desktop, and Chrome — one coworker, one shared memory, with the tools to actua
 below shows a real Slack thread turning into a live roadmap, a meeting moved by voice, and work
 handed off from any webpage.
 
-<video src="https://github.com/hardiktiwari/PIP-/raw/main/docs/pip-demo.mp4" poster="https://github.com/hardiktiwari/PIP-/raw/main/docs/pip-demo-poster.png" controls muted playsinline width="100%"></video>
+<video src="https://hardiktiwari.github.io/tandem-site/pip-demo.mp4" poster="https://hardiktiwari.github.io/tandem-site/pip-demo-poster.png" controls muted playsinline width="100%"></video>
 
-> ▶️ **[Watch the demo](https://github.com/hardiktiwari/PIP-/raw/main/docs/pip-demo.mp4)** (if the player above doesn't load inline)
+> ▶️ **[Watch the demo](https://hardiktiwari.github.io/tandem-site/pip-demo.mp4)** (if the player above doesn't load inline)
 
-[![Pip demo — the open-source harness that brings your AI to where you already work](docs/pip-demo-poster.png)](https://github.com/hardiktiwari/PIP-/raw/main/docs/pip-demo.mp4)
+[![Pip demo — the open-source harness that brings your AI to where you already work](docs/pip-demo-poster.png)](https://hardiktiwari.github.io/tandem-site/pip-demo.mp4)
 
 ---
 

@@ -12,6 +12,22 @@ context as you go**, or mounts a capability OS you own (like
 
 ---
 
+## Demo
+
+Pip is an **open-source harness that brings your AI to where you already work.** It takes the coding
+agent you already trust (via the Cursor CLI), makes it headless, and drops it into Slack, your
+desktop, and Chrome — one coworker, one shared memory, with the tools to actually ship. The clip
+below shows a real Slack thread turning into a live roadmap, a meeting moved by voice, and work
+handed off from any webpage.
+
+<video src="https://github.com/hardiktiwari/PIP-/raw/main/docs/pip-demo.mp4" poster="https://github.com/hardiktiwari/PIP-/raw/main/docs/pip-demo-poster.png" controls muted playsinline width="100%"></video>
+
+> ▶️ **[Watch the demo](https://github.com/hardiktiwari/PIP-/raw/main/docs/pip-demo.mp4)** (if the player above doesn't load inline)
+
+[![Pip demo — the open-source harness that brings your AI to where you already work](docs/pip-demo-poster.png)](https://github.com/hardiktiwari/PIP-/raw/main/docs/pip-demo.mp4)
+
+---
+
 ## The idea
 
 Most "AI in your tools" products are a model wrapped in a chat box, locked to one vendor and one
